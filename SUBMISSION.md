@@ -19,11 +19,11 @@ change.
 7. Your GitHub repository with the readme.md file selected showing the build failed
 status after the GitHub workflow fails.
 ![Failed readme](figures/failed_readme_ss7.jpg)
-8. pts The section of the POM file showing the coordinates after you’ve fixed them.
+8. The section of the POM file showing the coordinates after you’ve fixed them.
 ![Fixed POM](figures/pom_fixed_ss8.jpg)
-9. pts Your GitHub Actions dashboard showing the successful build after the breaking
+9. Your GitHub Actions dashboard showing the successful build after the breaking
 change has been fixed.
 ![Sucess action](figures/pom_fixed_action_ss9.jpg)
-10. pts Your GitHub repository with the readme.md file selected showing the build success
+10. Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
 ![Success readme](figures/build_passed_ss10.jpg)
